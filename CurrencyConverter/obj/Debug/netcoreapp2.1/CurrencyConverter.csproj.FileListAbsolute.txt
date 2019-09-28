@@ -1,0 +1,11 @@
+C:\Users\rzili\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp2.1\CurrencyConverter.deps.json
+C:\Users\rzili\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp2.1\CurrencyConverter.runtimeconfig.json
+C:\Users\rzili\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp2.1\CurrencyConverter.runtimeconfig.dev.json
+C:\Users\rzili\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp2.1\CurrencyConverter.dll
+C:\Users\rzili\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp2.1\CurrencyConverter.pdb
+C:\Users\rzili\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\rzili\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\rzili\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\rzili\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.AssemblyInfo.cs
+C:\Users\rzili\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.dll
+C:\Users\rzili\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.pdb
